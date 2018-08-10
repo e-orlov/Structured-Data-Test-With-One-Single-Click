@@ -1,0 +1,1 @@
+void(window.open('https://search.google.com/structured-data/testing-tool#url='+window.location.href,'_blank'));﻿
